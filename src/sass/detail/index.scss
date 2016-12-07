@@ -1,0 +1,89 @@
+@import '../common/header.scss';
+@import '../common/menu.scss';
+@import '../common/search.scss';
+@import '../common/footer.scss';
+
+.breadcrumb {
+  padding: 10px 10px 30px;
+}
+
+.main {
+  padding: 0 10px;
+}
+
+.intro {
+  .name {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-bottom: 7px;
+  }
+  .desc {
+    font-size: 12px;
+    padding-bottom: 20px;
+    padding-top: 13px;
+    line-height: 18px;
+    color: #999;
+  }
+}
+
+.price {
+  background-color: #f5f3ef;
+  border-top: 1px dotted #dedede;
+  border-bottom: 1px dotted #dedede;
+  line-height: 24px;
+  .pBox {
+    height: 45px;
+    line-height: 45px;
+    overflow: hidden;
+    .rmb {
+      font-size: 28px;
+      color: #d7282d;
+    }
+  }
+  .label {
+    width: 54px;
+    font-size: 12px;
+    float: left;
+    color: #666;
+    margin-left: 10px;
+  }
+}
+
+.number {
+  margin: 20px 0;
+}
+
+.category {
+  margin: 20px 0;
+}
+
+.action {
+  margin-top: 50px;
+  .buyNow {
+    height: 40px;
+    width: 120px;
+    margin-right: 20px;
+    border-color: #57c5f7;
+  }
+  .addCart {
+    height: 40px;
+    width: 120px;
+  }
+}
+
+.bd {
+  margin-top: 30px;
+  .detail {
+    img {
+      vertical-align: bottom;
+    }
+  }
+  .sidebar {
+    img {
+      width: 220px;
+      height: 220px;
+      margin-bottom: 10px;
+    }
+  }
+}

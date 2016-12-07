@@ -1,0 +1,30 @@
+@import '../common/header.scss';
+@import '../common/menu.scss';
+@import '../common/search.scss';
+@import '../common/footer.scss';
+
+.image img {
+  display: block;
+}
+
+.card {
+  text-align: center;
+  padding: 10px 16px;
+}
+
+.card p {
+  margin-top: 10px;
+  color: #d4282d;
+}
+
+.breadcrumb {
+  padding: 10px;
+}
+
+.wrapper {
+  text-align: center;
+  margin: 20px 0;
+  .pagination {
+    display: inline-block;
+  }
+}

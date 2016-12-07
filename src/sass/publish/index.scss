@@ -1,0 +1,29 @@
+@import '../common/header.scss';
+@import '../common/menu.scss';
+@import '../common/search.scss';
+@import '../common/footer.scss';
+
+.main {
+  margin-top: 30px;
+  min-height: 400px;
+}
+
+.avatar-uploader,
+.avatar-uploader-trigger,
+.avatar {
+  width: 150px;
+  height: 150px;
+}
+
+.avatar-uploader {
+  display: block;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.avatar-uploader-trigger {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 28px;
+}

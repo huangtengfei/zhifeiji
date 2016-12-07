@@ -1,0 +1,1 @@
+{"version":3,"sources":["common/menu.scss"],"names":[],"mappings":"AAAA,OACE,mBAAqB,CACtB,AAED,MACE,YAAc,CACf","file":"../../common/menu.css","sourcesContent":[".menus {\n  padding: 0 10px 10px;\n}\n\n.menu {\n  margin: 0 5px;\n}"]}
