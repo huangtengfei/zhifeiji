@@ -280,11 +280,11 @@
 	                      _react2.default.createElement(
 	                        'div',
 	                        { className: 'detail' },
-	                        _react2.default.createElement('img', { src: '../../assets/images/detail/1.jpg', alt: '' }),
-	                        _react2.default.createElement('img', { src: '../../assets/images/detail/2.jpg', alt: '' }),
-	                        _react2.default.createElement('img', { src: '../../assets/images/detail/3.jpg', alt: '' }),
-	                        _react2.default.createElement('img', { src: '../../assets/images/detail/4.jpg', alt: '' }),
-	                        _react2.default.createElement('img', { src: '../../assets/images/detail/5.jpg', alt: '' })
+	                        _react2.default.createElement('img', { src: 'http://7x2xnw.com1.z0.glb.clouddn.com/1.jpg', alt: '' }),
+	                        _react2.default.createElement('img', { src: 'http://7x2xnw.com1.z0.glb.clouddn.com/2.jpg', alt: '' }),
+	                        _react2.default.createElement('img', { src: 'http://7x2xnw.com1.z0.glb.clouddn.com/3.jpg', alt: '' }),
+	                        _react2.default.createElement('img', { src: 'http://7x2xnw.com1.z0.glb.clouddn.com/4.jpg', alt: '' }),
+	                        _react2.default.createElement('img', { src: 'http://7x2xnw.com1.z0.glb.clouddn.com/5.jpg', alt: '' })
 	                      )
 	                    ),
 	                    _react2.default.createElement(
@@ -84745,7 +84745,7 @@
 							_react2.default.createElement(
 								'span',
 								null,
-								'\u6D4B\u8BD5\u9875\u9762'
+								'\u7EB8\u98DE\u673A\uFF0C\u653E\u98DE\u4F60\u7684\u68A6'
 							),
 							_react2.default.createElement(
 								'div',
@@ -84877,7 +84877,7 @@
 	              _react2.default.createElement(
 	                _antd.Col,
 	                { span: 4, offset: 4 },
-	                _react2.default.createElement('img', { src: '../../assets/images/logo.jpg', alt: '' })
+	                _react2.default.createElement('img', { src: 'http://7x2xnw.com1.z0.glb.clouddn.com/logo.jpg', alt: '' })
 	              ),
 	              _react2.default.createElement(
 	                _antd.Col,

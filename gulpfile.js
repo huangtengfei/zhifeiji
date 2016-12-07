@@ -212,10 +212,10 @@ gulp.task('views:build', function () {
 	.pipe(revCollector({
 		replaceReved: true
 	}))
-	.pipe(replace('../../assets', ''+ CDN +'/static')) // 直接html页面引入样式情况
-	.pipe(replace('../assets', ''+ CDN +'/static')) // 直接html页面引入样式情况
-	.pipe(replace('../../', ''+ CDN +'/')) // 替换html页面静态资源地址
-	.pipe(replace('../', ''+ CDN +'/')) // 替换html页面静态资源地址
+	.pipe(replace('../../assets', '../static')) // 直接html页面引入样式情况
+	.pipe(replace('../assets', '../static')) // 直接html页面引入样式情况
+	.pipe(replace('../../', '../')) // 替换html页面静态资源地址
+	.pipe(replace('../', '../')) // 替换html页面静态资源地址
 	.pipe(gulp.dest(dist.views));
 });
 gulp.task('views', function () {

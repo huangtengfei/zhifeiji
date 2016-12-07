@@ -72,11 +72,11 @@ export default class DetailPage extends Component {
                   <Tabs defaultActiveKey="1">
                     <TabPane tab="详情" key="1">
                       <div className="detail">
-                        <img src="../../assets/images/detail/1.jpg" alt=""/>
-                        <img src="../../assets/images/detail/2.jpg" alt=""/>
-                        <img src="../../assets/images/detail/3.jpg" alt=""/>
-                        <img src="../../assets/images/detail/4.jpg" alt=""/>
-                        <img src="../../assets/images/detail/5.jpg" alt=""/>
+                        <img src="http://7x2xnw.com1.z0.glb.clouddn.com/1.jpg" alt=""/>
+                        <img src="http://7x2xnw.com1.z0.glb.clouddn.com/2.jpg" alt=""/>
+                        <img src="http://7x2xnw.com1.z0.glb.clouddn.com/3.jpg" alt=""/>
+                        <img src="http://7x2xnw.com1.z0.glb.clouddn.com/4.jpg" alt=""/>
+                        <img src="http://7x2xnw.com1.z0.glb.clouddn.com/5.jpg" alt=""/>
                       </div>
                     </TabPane>
                     <TabPane tab="评价" key="2">暂无评价</TabPane>           

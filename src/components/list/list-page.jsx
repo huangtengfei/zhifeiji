@@ -64,7 +64,7 @@ export default class ListPage extends Component {
               <Row>
                 {prodNodes}
               </Row>
-              <div className="wrapper">
+              <div className="page-wrapper">
                 <Pagination defaultCurrent={1} total={500} className="pagination" />
               </div>      
             </Col>

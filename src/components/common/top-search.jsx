@@ -44,7 +44,7 @@ export default class TopSearch extends Component {
           <Col span={18}>
             <Row>
               <Col span={4} offset={4}>
-                <img src="../../assets/images/logo.jpg" alt=""/>
+                <img src="http://7x2xnw.com1.z0.glb.clouddn.com/logo.jpg" alt=""/>
               </Col>
               <Col span={10} className="search">       
                 <div className="ant-search-input-wrapper" style={style}>

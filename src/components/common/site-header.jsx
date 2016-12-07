@@ -13,7 +13,7 @@ export default class SiteHeader extends Component {
 					
 					</Col>
 					<Col span={18}>
-					<span>测试页面</span>
+					<span>纸飞机，放飞你的梦</span>
 					<div className="link">
 						<a href="#">登录</a>
 						<a href="#">注册</a>
